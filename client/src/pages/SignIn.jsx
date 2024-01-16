@@ -1,12 +1,7 @@
 import React from 'react'
 
-
-const Signin = props => {
+export default function SignIn() {
   return (
-    <div>Signin</div>
+    <div>SignIn</div>
   )
 }
-
-
-
-export default Signin
